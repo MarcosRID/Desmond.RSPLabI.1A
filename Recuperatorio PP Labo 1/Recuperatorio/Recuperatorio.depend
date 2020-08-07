@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1595041475 source:c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1595002880 c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\utn.h
+
+1596762156 source:c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+
+1596761569 c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\cliente.h
+
+1596762062 source:c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+	"Informes.h"
+	"dataWhereHauose.h"
+
+1596762023 source:c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\prestamo.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+
+1596761460 c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\prestamo.h
+
+1596760597 c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\datawherehauose.h
+
+1596758992 c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\informes.h
+
+1596760810 source:c:\users\usuario\desktop\recuperatorio pp labo 1\recuperatorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+	"Informes.h"
+
